@@ -1,3 +1,19 @@
-body {
-    color: green;
+header {
+    background-color: purple;
+}
+
+nav {
+    background-color: blue;
+}
+
+article {
+    background-color: red;
+    display: inline-block;
+    width: 70%;
+}
+
+aside {
+    background-color: green;
+    display: inline-block;
+    width: 25%;
 }
