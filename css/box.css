@@ -1,0 +1,18 @@
+p {
+    margin: 40px;
+    padding: 40px;
+    background-color: green;
+    border-bottom-color: blue;
+    border-bottom-width: 40px;
+    border-bottom-style: solid;
+}
+
+section {
+    background-color: red;
+    padding: 40px;
+    margin: 40px;
+}
+
+body {
+    background-color: aqua;
+}
